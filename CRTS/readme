@@ -1,1 +1,7 @@
+here is the plotting of the lightcurves for each source within 3 degrees the KM3NeT region, using CRTS data extracted from this catalogue http://crts.caltech.edu/ .
+the list of data used is found in "CRTSdata.csv" file.
 
+how to accesss data from the catalogue:
+- go to http://nesssi.cacr.caltech.edu/DataRelease/
+- click on "Search for photometry in a single location"
+- enter the coordinates RA: 94.3 Dec: -7.8 Radius: 3
