@@ -1,1 +1,3 @@
-
+Here is the plotting of the hammer projection plot of TUORLA data, extracted from the catalog https://tuorlablazar.utu.fi/ 
+the list of data i used in the files "TUORLAtev.txt" for TeV blazars and AGNs, and "TUORLAother.txt" of other blazars and AGNilable in the catalog.
+No sources were found to be within 3 degrees of the KM3NeT events region.
