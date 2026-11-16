@@ -1,1 +1,2 @@
-
+Here you'll find the plotting of the lightcurves of ZTF data, extracted from the last public release in the catalog https://www.ztf.caltech.edu/ 
+the file "ZTF_lightcurves_CSV.zip" contains the data of 100 sources within 3 degrees of the KM3Net events region.
