@@ -1,2 +1,2 @@
 in "radio_mojave.ipynb" you'll find the plotting for the hammer projection of MOJAVE sources, which are listed in the file "MOJAVE.txt" and were found in the catalog: https://www.cv.nrao.edu/MOJAVE/ .
-"MOJAVEsources.ipynb" plots the lightcurve of the one sources that's located within the region of the KM3NeT event, and MOJAVEsource.txt has the data of the lightcurve, found from the same catalog.
+"MOJAVEsources.ipynb" plots the lightcurve of the one sources that's located within the region of the KM3NeT event, and "MOJAVEsource.txt" has the data of the lightcurve, found from the same catalog.
