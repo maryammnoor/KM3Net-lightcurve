@@ -1,1 +1,2 @@
-
+"xray_sources.csv" has a list of sources of Swift-XRT telescope, found from their catalog https://swift.gsfc.nasa.gov/results/transients/
+after plotting the hammer projection of the sources, one source was found to be within 3 degrees of the KM3NeT region.
