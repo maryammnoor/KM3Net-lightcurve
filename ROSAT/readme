@@ -1,1 +1,2 @@
-
+"ROSAT.ipynb" contains the plotting of the hammer prjection of the list of ROSAT sources "ROSAT.txt" found in the catalog https://heasarc.gsfc.nasa.gov/w3browse/rosat/rass2rxs.html
+"ROSAT.lightcurve.ipynb" plots the lightcurves of 5 sources that lie within the KM3NeT event region. the data was extracted from a FITS file from the same catalog.
