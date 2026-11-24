@@ -1,1 +1,2 @@
-
+"fermiLAT.ipynb" has the lightcurve plot of a source found to be within the region of the KM3NeT events region, its data "fermiLAT.txt" was extracted from the catalog https://fermi.gsfc.nasa.gov/ssc/data/access/lat/LightCurveRepository/ .
+"image.png" provides a screenshot of the sources that lie within 3 degrees of the KM3NeT event region, taken from the same catalog.
